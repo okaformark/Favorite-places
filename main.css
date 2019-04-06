@@ -1,3 +1,9 @@
 body{
     background-color: red;
 }
+img {
+    max-height: 300px;
+}
+.card {
+    margin: 10px;
+}
