@@ -1,0 +1,58 @@
+{
+    "places": [
+        {
+            "cityName": "lagos",
+            "cityState": "Nigeria",
+            "cityImage": "https://guardian.ng/wp-content/uploads/2017/09/Lagos-City.jpg",
+            "favoriteRestaurant": "Eko atlantic",
+            "favoriteBar": "Bar Havanna",
+            "favoriteHotel": "Sheraton Hotel",
+            "favoriteTouristAttraction": "Lekki Beach"
+        },
+        {
+            "cityName": "Nairobi",
+            "cityState": "Kenya",
+            "cityImage": "http://www.100resilientcities.org/wp-content/uploads/2017/06/Nairobi.jpg",
+            "favoriteRestaurant": "intercontinental restaurant",
+            "favoriteBar": "Bar louie",
+            "favoriteHotel": "Hilton Hotel",
+            "favoriteTouristAttraction": "Nairobi conservation center"
+        },
+        {
+            "cityName": "Abuja",
+            "cityState": "Nigeria",
+            "cityImage": "https://hotels.ng/guides/wp-content/uploads/2017/06/Road-to-Zuma-Rock-Abuja-hotels.ng_.jpg",
+            "favoriteRestaurant": "Breyer's",
+            "favoriteBar": "RedRoof",
+            "favoriteHotel": " Abuja Hotel",
+            "favoriteTouristAttraction": "Yankari game reserves"
+        },
+        {
+            "cityName": "Cape Town",
+            "cityState": "South Africa",
+            "cityImage": "http://diversity.utexas.edu/academiccenter/wp-content/uploads/2018/10/capetown.jpg",
+            "favoriteRestaurant": "Zulu's",
+            "favoriteBar": "Tin roof",
+            "favoriteHotel": "Hotel Afrique",
+            "favoriteTouristAttraction": "Cape of good hope"
+        },
+        {
+            "cityName": "Cairo",
+            "cityState": "Egypt",
+            "cityImage": "https://fci.nl/events/cairo.jpg",
+            "favoriteRestaurant": "Pyramid's cuisine",
+            "favoriteBar": "L-27",
+            "favoriteHotel": "Cairo international resort",
+            "favoriteTouristAttraction": "The pyramid"
+        },
+        {
+            "cityName": "Accra",
+            "cityState": "Ghana",
+            "cityImage": "https://t-ec.bstatic.com/images/hotel/max1024x768/130/130606085.jpg",
+            "favoriteRestaurant": "Mama Afrique",
+            "favoriteBar": "Dream bar",
+            "favoriteHotel": "Hotel Royale",
+            "favoriteTouristAttraction": "Accra Beach"
+        }
+    ]
+}
